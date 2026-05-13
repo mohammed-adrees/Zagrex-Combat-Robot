@@ -12,6 +12,11 @@ Zagrex is a high-power 4WD RC combat robot built for the AUK Robotics War Event.
 It uses an ESP32 with dual BTS7960 43A motor drivers for precise, high-current motor  
 control, delivering strong pushing force and reliable performance in competition.
 
+---
+
+## 📸 Photos
+
+![Robot Picture](https://github.com/mohammed-adrees/Zagrex-Combat-Robot/blob/main/images/1778610688810.jpg?raw=true)
 
 ---
 
